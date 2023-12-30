@@ -3,10 +3,8 @@
 ## Architecture
 
 
-bash.sh: 
-
-python.py: 
-
-javascript.js: 
+- bash.sh: 
+- python.py: 
+- javascript.js: 
 
 
